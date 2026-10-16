@@ -1,26 +1,32 @@
-LICENCIA DE SOFTWARE - USO NO COMERCIAL
-=======================================
+SOFTWARE LICENSE - NON-COMMERCIAL USE
 
-Proyecto: [Escribe aquí el nombre de tu extensión o proyecto]
-Autor original: [Escribe aquí tu nombre o nombre de usuario de GitHub]
-Año: 2026
+============================================
 
-Este proyecto se distribuye bajo los términos de la Licencia Internacional Creative Commons Atribución-NoComercial-CompartirIgual 4.0 (CC BY-NC-SA 4.0).
+Project: [Write here the name of your extension or project]
 
-Usted es libre de:
-* Compartir: Copiar y redistribuir el material en cualquier soporte o formato.
-* Adaptar: Remezclar, transformar y crear a partir del material para uso personal.
+Original author: [Write here your name or GitHub username]
 
-Bajo las siguientes condiciones:
+Year: 2026
 
-1. ATRIBUCIÓN (BY): Debe dar crédito de manera adecuada, brindar un enlace a la licencia e indicar si se han realizado cambios. Puede hacerlo en cualquier forma razonable, pero no de forma tal que sugiera que el autor original respalda su uso.
+This project is distributed under the terms of the International Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License (CC BY-NC-SA 4.0).
 
-2. NO COMERCIAL (NC): USTED NO PUEDE HACER USO DE ESTE MATERIAL CON FINES COMERCIALES. Queda estrictamente prohibida la venta, alquiler, distribución de pago, monetización mediante publicidad integrada o inclusión de este código en productos de software comerciales, software propietario o plataformas de pago de terceros (como tiendas de extensiones bajo modalidad de cobro).
+You are free from:
 
-3. COMPARTIR IGUAL (SA): Si remezcla, transforma o crea a partir del material, deberá distribuir sus contribuciones bajo la misma licencia original que el software original.
+* Share: Copy and redistribute the material in any support or format.
 
-EXENCIÓN DE RESPONSABILIDAD:
-Este software se entrega "tal cual" ("as is"), sin garantía de ningún tipo, expresa o implícita. En ningún caso el autor original será responsable por pérdidas de datos, fallos del sistema o cualquier reclamo, daño u otra responsabilidad que surja del uso o mal funcionamiento de este software.
+* Adapt: Remix, transform and create from the material for personal use.
+
+Under the following conditions:
+
+1. ATTRIBUTION (BY): You must give credit properly, provide a link to the license and indicate if changes have been made. You can do so in any reasonable way, but not in a way that suggests that the original author endorses its use.
+
+2. NON-COMMERCIAL (NC): YOU MAY NOT USE THIS MATERIAL FOR COMMERCIAL PURPOSES. The sale, rental, distribution of payment, monetization through integrated advertising or inclusion of this code in commercial software products, proprietary software or third-party payment platforms (such as extension stores under collection modality) is strictly prohibited.
+
+3. SHARE EQUAL (SA): If you remix, transform or create from the material, you must distribute your contributions under the same original license as the original software.
+
+DISCLAIMER:
+
+This software is delivered "as is", with no warranty of any kind, express or implied. In no case will the original author be liable for data loss, system failures or any claim, damage or other liability arising from the use or malfunction of this software.
 
 ## 📄 License
 
