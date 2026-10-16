@@ -2,9 +2,9 @@ SOFTWARE LICENSE - NON-COMMERCIAL USE
 
 ============================================
 
-Project: [Write here the name of your extension or project]
+Project: Image-Downloader
 
-Original author: [Write here your name or GitHub username]
+Original author: Angel4RS
 
 Year: 2026
 
