@@ -37,7 +37,7 @@ Image Downloader escanea la página en la que estás, encuentra sus imágenes y 
 
 > La extensión aún no está en Chrome Web Store, así que se instala en **modo desarrollador**.
 
-### Opción A: desde el ZIP (recomendada)
+### desde el ZIP 
 
 1. Ve a la sección [**Releases**](../../releases) y descarga `Image-Downloader.zip`.
 2. **Descomprime** el archivo en una carpeta que no vayas a borrar.
@@ -45,14 +45,6 @@ Image Downloader escanea la página en la que estás, encuentra sus imágenes y 
 4. Activa el **Modo de desarrollador** (arriba a la derecha).
 5. Pulsa **Cargar descomprimida** y elige la carpeta `Image-Downloader` (la que contiene el archivo `manifest.json`).
 6. Opcional: fija la extensión desde el ícono de la pieza de rompecabezas 🧩 para tenerla siempre a mano.
-
-### Opción B: clonando el repositorio
-
-```bash
-git clone https://github.com/Angel4RS/Image-Downloader.git
-```
-
-Luego sigue los pasos 3 a 6 de arriba, eligiendo la carpeta clonada.
 
 > 💡 Después de instalar o actualizar, **recarga las pestañas** que ya tenías abiertas para que la extensión pueda detectar sus imágenes.
 
