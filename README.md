@@ -11,7 +11,7 @@ JPG · PNG · GIF · WebP · AVIF
 ![Browser](https://img.shields.io/badge/Chrome-extension-yellow)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Donate-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/angel4kv1)
 
-🌐 [Español](README.md) · [English](README.en.md)
+🌐 [Español](README ES.md) · [English](README.en.md)
 
 </div>
 
