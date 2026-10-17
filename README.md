@@ -37,7 +37,7 @@ Image Downloader scans the page you are on, finds its images, and lets you **pic
 
 > The extension is not on the Chrome Web Store yet, so it is installed in **developer mode**.
 
-### Option A: from the ZIP (recommended)
+### from the ZIP 
 
 1. Go to the [**Releases**](../../releases) section and download `Image-Downloader.zip`.
 2. **Unzip** it into a folder you won't delete.
@@ -45,14 +45,6 @@ Image Downloader scans the page you are on, finds its images, and lets you **pic
 4. Turn on **Developer mode** (top right).
 5. Click **Load unpacked** and choose the `Image-Downloader` folder (the one that contains `manifest.json`).
 6. Optional: pin the extension from the puzzle-piece icon 🧩 to keep it at hand.
-
-### Option B: cloning the repository
-
-```bash
-git clone https://github.com/Angel4RS/Image-Downloader.git
-```
-
-Then follow steps 3 to 6 above, choosing the cloned folder.
 
 > 💡 After installing or updating, **reload any tabs** you already had open so the extension can detect their images.
 
