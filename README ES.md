@@ -76,7 +76,7 @@ La extensión **no recopila ni envía datos** a ningún servidor. Todo ocurre lo
 
 - Detecta imágenes por la **extensión en la URL** (`.jpg`, `.png`, etc.). Si un sitio sirve imágenes sin extensión, no aparecerán.
 - La búsqueda de la versión grande se basa en patrones; en sitios con URLs especiales puede descargarse el tamaño visible.
-- Pensada para **Google Chrome**. Debería funcionar en navegadores basados en Chromium (Edge, Brave, Opera), pero no está probada en ellos.
+- Pensada para **Google Chrome**. Debería funcionar en navegadores basados en Chromium (Edge, Brave, Opera, Yandex), pero no está probada en ellos.
 - Solo se descarga a una carpeta dentro de *Descargas* (limitación de Chrome para las extensiones).
 - No funciona en páginas internas del navegador (`chrome://`, Chrome Web Store).
 
